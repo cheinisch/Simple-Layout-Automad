@@ -1,7 +1,7 @@
 {
-    "name": "Theme Skeleton",
+    "name": "Simple Layout",
     "description": "A simple theme skeleton",
-    "author": "Your Name",
+    "author": "Christian Heinisch",
     "license": "MIT",
     "tooltips": {
         "+main": "The main content of the page"

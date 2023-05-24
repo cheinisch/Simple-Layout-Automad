@@ -1,0 +1,55 @@
+ul {
+    list-style: none;
+    color:white;
+    margin:0px;
+    padding:0px;
+}
+
+li{
+    display: inline;
+}
+
+.menuitem {
+    height: 120px;
+    text-align: center;
+    padding:20px;
+}
+
+/* Farben */
+body{
+    background-color: white;
+}
+.ui-color-01{
+    background-color: white;
+    color:white;
+}
+
+.ui-menu-color01{
+    background-color: red;
+}
+
+.menu-color-black{
+    background-color: #000000;
+}
+
+
+/* FONT */
+
+.fa{
+    font-size:26px;
+}
+
+li > a{
+    color:white;
+}
+
+li > a:hover{
+    color:white;
+}
+
+/* Footer */
+.footer{
+    height: 150px;
+    background-color: white;
+	color: black;
+}
