@@ -10,7 +10,7 @@
 	<meta name="title" content="HeinischDesign">
 	<link rel="shortcut icon" href="/HeinischDesign_Favicon.ico">
 
-    <title>Title</title>
+    <title>@{ sitename }</title>
     <!-- CSS -->
     <link rel="stylesheet" href="/packages/@{ theme }/css/foundation.min.css" />
     

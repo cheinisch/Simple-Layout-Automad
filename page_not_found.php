@@ -7,7 +7,7 @@
 
     <div class="row">
       <div class="large-10 columns large-offset-1">
-        <h1>Title</h1>
+        <h1>@{ sitename }</h1>
       </div>
     </div>
 
@@ -43,19 +43,6 @@
 			</div>
 		</div>
 	</div>
-    <?php include_once("footer.php") ?>
+  <@ elements/footer.php @>
     
 
-
-	<!-- Javascript -->
-    <script src="js/vendor/jquery.min.js"></script>
-    <script src="js/vendor/what-input.min.js"></script>
-    <script src="js/foundation.min.js"></script>
-    <script src="js/app.js"></script>
-	<?php include_once("php/analytics.php") ?>
-	<?php include_once("php/cookie.php") ?>
-	
-	
-
-  </body>
-</html>
