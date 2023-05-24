@@ -2,31 +2,12 @@
      $uri = $_SERVER['REQUEST_URI'];
 ?>
 
-<!doctype html>
-<html class="no-js" lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta http-equiv="language" content="de">
-	<meta name="description" content="Willkommen auf Heinisch-Design.de. Mein Name ist Christian Heinisch und ich bin nebenberuflicher Webdesigner.">
-	<meta name="keywords" content="Webdesign, Rheingau, Hessen, Rhein-Main, Frankfurt, Wiesbaden, Geisenheim, Wordpress, Bootstrap, Foundation">
-	<meta name="title" content="HeinischDesign">
-	<link rel="shortcut icon" href="/HeinischDesign_Favicon.ico">
-
-    <title>HeinischDesign | Welcome</title>
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/foundation.min.css" />
-    
-	<link rel="stylesheet" href="css/theme.css" />
-    
-	<!---->
-  </head>
+<@ elements/header.php @>
   <body>
 
     <div class="row">
       <div class="large-10 columns large-offset-1">
-        <h1>HeinischDesign</h1>
+        <h1>Title</h1>
       </div>
     </div>
 
@@ -54,7 +35,7 @@
 						<div class="large-6 columns">
 							<h3>Ooops</h3>
 							<p>The file you are looking for was not found on the server.</p>
-							<p>Please try again or open the main page.<</p>
+							<p>Please try again or open the main page.</p>
 							<p>Sorry</p>
 						</div>
 					</div>
