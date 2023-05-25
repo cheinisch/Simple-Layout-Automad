@@ -46,17 +46,19 @@ body{
 /*Farbdesign */
 
 body{
-    background-color: white;
+    background-color: #1d1d1d;
 }
 
 h1{
-    color:rgb(226, 226, 226);
+    color:#e2e2e2;
 }
 
 .menu .active > a
 {
-	background-color:black;
+	background-color:#e2e2e2;
+    color:#1d1d1d;
 }
+
 
 .schatten{
 	
@@ -74,8 +76,8 @@ h1{
 /* Topbar */
 
 .title-bar{
-	background-color:#fff;
-	color:#0a0a0a;
+	background-color:#1d1d1d;
+	color:#e2e2e2;
 }
 .menu-icon::after {
     background: #0a0a0a none repeat scroll 0 0;
@@ -89,7 +91,7 @@ h1{
 
 .top-bar, .top-bar ul {
     /*background-color: #0f0f0f;*/
-	background-color:#fff;
+	background-color:#1d1d1d;
 }
 
 .top-bar{
@@ -103,14 +105,14 @@ h1{
 /* Links im Menü */
 
 .menu a{
-	color:#0a0a0a;
+	color:#e2e2e2;
 }
 
 .menu a:hover{
 	color:#919191;
 }
 li.active a:hover{
-	color:white;;
+	color:#000000;;
 }
 
 /* Datenschutz */
@@ -118,7 +120,7 @@ li.active a:hover{
 .footer > li > a{
 	
     display: block;
-    color:black;
+    color:#e2e2e2;
     line-height: 0.1;
     padding: 0.1rem 0.5rem;
 	font-weight:300;
@@ -137,10 +139,10 @@ li.active a:hover{
 
 
 .callout {
-    background-color: #fff;
+    background-color: #1d1d1d;
     border: 0px solid hsla(0, 0%, 4%, 0.25);
     border-radius: 0;
-    color: #0a0a0a;
+    color: #e2e2e2;
 }
 
 .callout.large {
