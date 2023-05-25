@@ -1,8 +1,12 @@
 <div class="row">
 	<div class="large-10 columns large-offset-1">
 		<ul class="menu align-right footer">
-			<li><a href="impressum.php">Impressum</a></li>
-			<li><a href="datenschutz.php">Datenschutz</a></li>
+			<@ newPagelist { type: false, excludeHidden: false } @>
+			<@ foreach in pagelist @>
+				<@ if @{ checkboxShowInFooter } @>
+					<li><a href="@{ url }">@{ title }</a></li>
+				<@ end @>
+			<@ end @>	
 		</ul>
 	</div>
 </div>

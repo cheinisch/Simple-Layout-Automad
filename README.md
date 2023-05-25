@@ -1,4 +1,4 @@
-# Automad Theme Skeleton
+# Heimfisch Simple Layout
 
 You can use this package as a package skeleton for new [Automad](https://automad.org) themes.
 It includes all files to get you started with your own themes quickly. However there is only one single template 

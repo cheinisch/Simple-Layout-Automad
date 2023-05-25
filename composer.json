@@ -1,5 +1,5 @@
 {
-    "name": "automad/theme-skeleton",
+    "name": "heimfisch/simple_layout",
     "description": "An Automad theme package skeleton including tutorial templates for developers",
     "type": "automad-package",
     "keywords": ["theme"],

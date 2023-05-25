@@ -13,9 +13,11 @@
     <title>@{ sitename }</title>
     <!-- CSS -->
     <link rel="stylesheet" href="/packages/@{ theme }/css/foundation.min.css" />
-    
-	<link rel="stylesheet" href="/packages/@{ theme }/css/theme.css" />
-    
+    <@ if @{ checkboxDarkTheme } @>
+      <link rel="stylesheet" href="/packages/@{ theme }/css/simplelayout.theme.dark.css" />
+    <@ else @>
+      <link rel="stylesheet" href="/packages/@{ theme }/css/simplelayout.theme.light.css" />
+    <@ end @>
 	<!---->
   </head>
 <body>
