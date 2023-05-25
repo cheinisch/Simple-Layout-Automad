@@ -18,6 +18,7 @@
     <@ else @>
       <link rel="stylesheet" href="/packages/@{ theme }/css/simplelayout.theme.light.css" />
     <@ end @>
+    <link rel="stylesheet" href="/packages/@{ theme }/css/simplelayout.layout.css" />
 	<!---->
   </head>
 <body>
