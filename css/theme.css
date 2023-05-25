@@ -107,7 +107,7 @@ h1{
 }
 
 .menu a:hover{
-	color:#2199e8;
+	color:#919191;
 }
 li.active a:hover{
 	color:white;;
@@ -118,7 +118,7 @@ li.active a:hover{
 .footer > li > a{
 	
     display: block;
-    color:white;
+    color:black;
     line-height: 0.1;
     padding: 0.1rem 0.5rem;
 	font-weight:300;
