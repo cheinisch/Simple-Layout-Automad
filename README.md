@@ -10,6 +10,9 @@ There are multiple variables to configure this theme. Find below a list of the m
 
 ### Page with one Block
 
+![](https://simplelayout.dev.heinisch-design.de/shared/simple_layout-dark-4.png)
+
+You can add some text or images or something else.
 
 ### Page with two Blocks
 
@@ -28,3 +31,10 @@ You can add some pages to the top navigation. The current page is highlighted.
 You can add some links to the bottom navigation. These links are on the right bottom.
 
 ![](https://simplelayout.dev.heinisch-design.de/shared/simple_layout-dark-3.png)
+
+
+### Light Layout
+
+the features are the same as the dark layout, but the colors are changed.
+
+![](https://simplelayout.dev.heinisch-design.de/shared/simple_layout-light-1.png)
