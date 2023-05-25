@@ -15,9 +15,13 @@
       <@ elements/navbar.php @>
 				<div class="callout large">
 					<div class="row">						
-						<div class="large-12 columns">
+						<div class="large-6 columns">
 							<h3>@{ title }</h3>
-							@{ +main }
+							@{ +LeftBlock }
+						</div>
+						<div class="large-6 columns">
+							<h3>&nbsp;</h3>
+							@{ +RightBlock}
 						</div>
 					</div>
 				</div>
