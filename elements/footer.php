@@ -10,7 +10,8 @@
 		</ul>
 	</div>
 </div>
-
+</div>
+</div>
 
 	<!-- Javascript -->
     <script src="/packages/@{ theme }/js/vendor/jquery.min.js"></script>
