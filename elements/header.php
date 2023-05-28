@@ -21,4 +21,3 @@
     <link rel="stylesheet" href="/packages/@{ theme }/css/simplelayout.layout.css" />
 	<!---->
   </head>
-<body>
