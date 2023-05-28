@@ -80,13 +80,13 @@ h1{
 	color:#e2e2e2;
 }
 .menu-icon::after {
-    background: #0a0a0a none repeat scroll 0 0;
-    box-shadow: 0 7px 0 #0a0a0a, 0 14px 0 #0a0a0a;
+    background: #e2e2e2 none repeat scroll 0 0;
+    box-shadow: 0 7px 0 #e2e2e2, 0 14px 0 #e2e2e2;
 }
 
 .menu-icon:hover::after {
-    background: #2199e8 none repeat scroll 0 0;
-    box-shadow: 0 7px 0 #2199e8, 0 14px 0 #2199e8;
+    background: #919191 none repeat scroll 0 0;
+    box-shadow: 0 7px 0 #919191, 0 14px 0 #919191;
 }
 
 .top-bar, .top-bar ul {
