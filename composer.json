@@ -1,6 +1,6 @@
 {
     "name": "heimfisch/simple_layout",
-    "description": "A minimal and responsive blog theme for the [Automad](https://automad.org) CMS based on the beautiful [Foundation](https://get.foundation/) framework, including a [light](#light-scheme) and a [dark](#dark-scheme) color scheme. Check out the demo page and all available templates [here](https://simplelayout.dev.heinisch-design.de).",
+    "description": "A minimal and responsive blog theme for the Automad CMS based on the beautiful Foundation framework, including a light and a dark color scheme. Check out the demo page and all available templates https://simplelayout.dev.heinisch-design.de.",
     "type": "automad-package",
     "keywords": ["theme"],
     "license": "MIT",
