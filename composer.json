@@ -1,6 +1,6 @@
 {
     "name": "heimfisch/simple_layout",
-    "description": "An Automad theme package skeleton including tutorial templates for developers",
+    "description": "A Simple Layout, without any different Sites. Only one layout. Left and right side.",
     "type": "automad-package",
     "keywords": ["theme"],
     "license": "MIT",
