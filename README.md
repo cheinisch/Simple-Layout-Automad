@@ -24,7 +24,7 @@ The template page with blocks have a left block and a right block. If you migrsa
 
 You can add some pages to the top navigation. The current page is highlighted.
 
-![](https://dev.heinisch-design.de/demo/shared/simplalayout/simple_layout-dark-2.png)
+![](https://dev.heinisch-design.de/demo/shared/simplelayout/simple_layout-dark-2.png)
 
 ### Footer Navigation
 
