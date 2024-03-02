@@ -1,4 +1,4 @@
-# Heimfisch Simple Layout
+# Simple Layout
 
 A minimal and responsive blog theme for the [Automad](https://automad.org) CMS based on the beautiful [Foundation](https://get.foundation/) framework, including a [light](#light-scheme) and a [dark](#dark-scheme) color scheme. Check out the demo page and all available templates [here](https://dev.heinisch-design.de/demo/simplelayout).
 
