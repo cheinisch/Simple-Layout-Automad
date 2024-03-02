@@ -4,7 +4,7 @@
 			<@ newPagelist { type: false, excludeHidden: false } @>
 			<@ foreach in pagelist @>
 				<@ if @{ checkboxShowInFooter } @>
-					<li><a href="@{ url }">@{ title }</a></li>
+					<li class="bottomnav"><a href="@{ url }">@{ title }</a></li>
 				<@ end @>
 			<@ end @>	
 		</ul>
