@@ -2,6 +2,7 @@
     "name": "SimpleLayout",
     "description": "A simple theme",
     "author": "Christian Heinisch",
+	"version": "1.0.4",
     "license": "MIT",
     "tooltips": {
         "+main": "The main content of the page",
@@ -11,6 +12,7 @@
         "checkboxDarkTheme": "Enable dark theme",
         "checkboxHideSearch": "Hide search field",
         "checkboxShowInFooter": "Show a link to this page in the footer menu",
-        "checkboxShowInNavbar": "Show a link to this page in the navbar menu"
+        "checkboxShowInNavbar": "Show a link to this page in the navbar menu",
+		"itemsTrackingCode":"Additional Tracking Code in the Footer Area"
     }
 }
