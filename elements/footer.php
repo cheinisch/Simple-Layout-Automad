@@ -18,6 +18,8 @@
     <script src="/packages/@{ theme }/js/vendor/what-input.min.js"></script>
     <script src="/packages/@{ theme }/js/foundation.min.js"></script>
     <script src="/packages/@{ theme }/js/app.js"></script>	
-
+	
+	@{ itemsTrackingCode }
+				
   </body>
 </html>
